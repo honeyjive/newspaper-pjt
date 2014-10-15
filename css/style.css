@@ -14,3 +14,7 @@
     margin-bottom: 0;
     max-width: 62.5rem;
 }
+
+.six-up-stories .column {
+    outline: 2px solid blue;
+}
