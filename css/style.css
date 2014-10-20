@@ -16,7 +16,7 @@
 }
 
 .six-up-stories .column {
-    outline: 2px solid blue;
+    /*outline: 2px solid blue;*/
 }
 
 body {
@@ -30,11 +30,13 @@ h1, h2, h3, h4, h5, h6 {
 
 img {
 	max-width: 100%;
+
 }
 
 .feature-story-img {
 	width: 90%;
 }
+
 
 @media (min-width: 20.063em) and (max-width: 40.063em) { 
 	.medium-4 {width: 33.33%;}
