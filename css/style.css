@@ -33,5 +33,9 @@ img {
 }
 
 .feature-story-img {
-	width: 70%;
+	width: 90%;
+
+@media (min-width: 300px) { body {background: red;} }
+@media (min-width: 700px) { body {background: blue;} }
+@media (min-width: 1100px) { body {background: green;} }
 }
